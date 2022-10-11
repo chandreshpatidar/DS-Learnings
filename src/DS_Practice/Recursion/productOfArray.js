@@ -9,6 +9,3 @@ function productOfArray(arr) {
 
 console.log('Should print 6 ->', productOfArray([1, 2, 3]));
 console.log('Should print 60 ->', productOfArray([1, 2, 3, 10]));
-
-// productOfArray([1,2,3]) // 6
-// productOfArray([1,2,3,10]) // 60
